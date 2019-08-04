@@ -11,6 +11,10 @@ This Repo will contain all the details with screenshots to list all what is requ
 
     Tip: As per the udacity orientation video, they mentioned that they are working on a separate leaderBoard for the users that have applied for Udacity Deepracer challenge. But right now, your best time goes in the global LeaderBoard
 
+### Resources
+To understand the training process and aws console,have a look at this repo.
+https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme.md 
+
 ### Prerequisites
 
 1. For AWS Starter Account:
